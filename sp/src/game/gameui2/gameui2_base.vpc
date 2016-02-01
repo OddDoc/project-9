@@ -4,7 +4,7 @@
 //	Project Script
 //-----------------------------------------------------------------------------
 
-$Macro GAMENAME 	"mod_episodic_gui"
+$Macro GAMENAME 	"project-9"
 $Macro OUTBINNAME	"gameui2"
 $Macro OUTBINDIR	"$SRCDIR\..\game\$GAMENAME\bin"
 $Macro SRCDIR		"..\.."
