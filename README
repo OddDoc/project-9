@@ -1,21 +1,10 @@
-                     PROJECT-9 SOURCE CODE
+                                Project-9 Source Code
 
-           DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE
-                   Version 2, December 2004
+This work is licensed under the Creative Commons Attribution 4.0 International License. 
+To view a copy of this license, visit http://creativecommons.org/licenses/by/4.0/ 
+Only our changes of Source SDK code are under the Creative Commons Attribution 4.0 International License.
+Source SDK License: https://github.com/ValveSoftware/source-sdk-2013/blob/master/LICENSE
 
-Copyright (C) 2004 Sam Hocevar <sam@hocevar.net>
-
-Everyone is permitted to copy and distribute verbatim or modified
-copies of this license document, and changing it is allowed as long
-as the name is changed.
-
-           DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE
-  TERMS AND CONDITIONS FOR COPYING, DISTRIBUTION AND MODIFICATION
-
- 0. You just DO WHAT THE FUCK YOU WANT TO.
-
-NOTE:
-Project-9 source code (only our changes of Source1 public SDK code) is under WTFPL (license)
 
 The rest of the code is under Valve's license:
 Source1 SDK License https://github.com/NicolasDe/project-9/blob/master/README_SOURCE1
